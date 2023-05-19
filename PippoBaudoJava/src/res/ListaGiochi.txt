@@ -1,0 +1,10 @@
+God of War,PlayStation 4;PC,Avventura,2018,Santa Monica Studio,9.3,19.99
+Hades,PC;Nintendo Switch,GDR,2020,Supergiant Games,9.5,24.99
+Persona 5 Royal,PlayStation 4,GDR,2020,Atlus,9.7,59.99
+Celeste,PC,Piattaforme,2018,Matt Makes Games,9.5,19.99
+Death Stranding,PlayStation 4,Avventura,2019,Kojima Productions,8.9,39.99
+Subnautica,Xbox One,Sopravvivenza,2018,Unknown Worlds Entertainment,9.3,24.99
+Disco Elysium,PC,GDR,2019,ZA/UM,9.6,39.99
+Control,Nintendo Switch,Avventura,2019,Remedy Entertainment,9.1,29.99
+Bloodborne,PlayStation 4,Action RPG,2015,FromSoftware,9.4,19.99
+Inside,Nintendo Switch,Puzzle,2016,Playdead,9.2,19.99
